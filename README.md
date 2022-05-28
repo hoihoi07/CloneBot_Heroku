@@ -23,7 +23,7 @@
 - [Host it to Heroku](https://www.heroku.com)
 - [Host it to Okteto](https://www.okteto.com)
 
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/msgsuite/clonebot_heroku
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/hoihoi07/clonebot_heroku
 
 #### ❌ Drawbacks
 - Does not support files upload (only copy)
